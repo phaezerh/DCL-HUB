@@ -1,4 +1,5 @@
 Hi, I’m Faiza Ibrahim 👋
+
 I’m an aspiring Data Analyst passionate about learning how data can be used to solve problems, uncover insights, and create meaningful impact.
 
 About Me 😁
